@@ -1,7 +1,7 @@
 # Sorting_Assignment
 1) Dor Pel - דור פל
   ID: 322916784
-2) Liran Kricheli - לירן קריכלי
+2) Liran Krichli - לירן קריכלי
    ID: 2116167859
    
 We choose to implament Bubble Sort, Insertion Sort And Merge Sort (1,3,4)
